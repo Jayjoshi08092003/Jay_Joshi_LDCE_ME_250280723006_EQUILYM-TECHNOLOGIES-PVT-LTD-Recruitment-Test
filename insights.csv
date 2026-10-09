@@ -1,0 +1,5 @@
+insight_id,type,indicator,entity,period,metric,prev_value,change,severity,explanation
+INS-0001,trend,high_risk_cases,Mehsana,2026-08,28.0,11.0,154.55,High,"High Risk Cases in Mehsana rose by 154.5% compared to the previous month (11 -> 28), exceeding the 10% significant-change threshold."
+INS-0002,trend,anc_coverage,Mehsana,2026-08,42.0,84.0,-50.0,High,"ANC Coverage in Mehsana dropped by 50.0% compared to the previous month (84 -> 42), exceeding the 10% significant-change threshold."
+INS-0005,trend,high_risk_cases,Ahmedabad,2026-08,13.0,10.0,30.0,High,"High Risk Cases in Ahmedabad rose by 30.0% compared to the previous month (10 -> 13), exceeding the 10% significant-change threshold."
+INS-0009,trend,anc_coverage,Ahmedabad,2026-08,69.0,85.0,-18.82,High,"ANC Coverage in Ahmedabad dropped by 18.8% compared to the previous month (85 -> 69), exceeding the 10% significant-change threshold."

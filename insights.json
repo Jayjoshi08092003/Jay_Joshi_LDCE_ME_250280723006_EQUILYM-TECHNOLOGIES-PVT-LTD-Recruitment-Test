@@ -1,0 +1,50 @@
+[
+  {
+    "insight_id":"INS-0001",
+    "type":"trend",
+    "indicator":"high_risk_cases",
+    "entity":"Mehsana",
+    "period":"2026-08",
+    "metric":28.0,
+    "prev_value":11.0,
+    "change":154.55,
+    "severity":"High",
+    "explanation":"High Risk Cases in Mehsana rose by 154.5% compared to the previous month (11 -> 28), exceeding the 10% significant-change threshold."
+  },
+  {
+    "insight_id":"INS-0002",
+    "type":"trend",
+    "indicator":"anc_coverage",
+    "entity":"Mehsana",
+    "period":"2026-08",
+    "metric":42.0,
+    "prev_value":84.0,
+    "change":-50.0,
+    "severity":"High",
+    "explanation":"ANC Coverage in Mehsana dropped by 50.0% compared to the previous month (84 -> 42), exceeding the 10% significant-change threshold."
+  },
+  {
+    "insight_id":"INS-0005",
+    "type":"trend",
+    "indicator":"high_risk_cases",
+    "entity":"Ahmedabad",
+    "period":"2026-08",
+    "metric":13.0,
+    "prev_value":10.0,
+    "change":30.0,
+    "severity":"High",
+    "explanation":"High Risk Cases in Ahmedabad rose by 30.0% compared to the previous month (10 -> 13), exceeding the 10% significant-change threshold."
+  },
+  {
+    "insight_id":"INS-0009",
+    "type":"trend",
+    "indicator":"anc_coverage",
+    "entity":"Ahmedabad",
+    "period":"2026-08",
+    "metric":69.0,
+    "prev_value":85.0,
+    "change":-18.82,
+    "severity":"High",
+    "explanation":"ANC Coverage in Ahmedabad dropped by 18.8% compared to the previous month (85 -> 69), exceeding the 10% significant-change threshold."
+  }
+]
